@@ -1,0 +1,81 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  },
+  "students": [
+    {
+      "firstName": "Karthik",
+      "lastName": "Macherla",
+      "email": "saikarthikmacherla@gmail.com",
+      "dob": "2023-03-20T18:30:00.000Z",
+      "gender": "male",
+      "department": "Mechanical",
+      "college": "JNTUK",
+      "address": "ongole",
+      "city": "ongole",
+      "id": 2
+    },
+    {
+      "firstName": "sai",
+      "lastName": "Kumar",
+      "email": "saikumar@gmail.com",
+      "dob": "2023-03-20T18:30:00.000Z",
+      "gender": "male",
+      "department": "ECE",
+      "college": "JNTUK",
+      "address": "narsipatnam",
+      "city": "Vizag",
+      "id": 3
+    },
+    {
+      "firstName": "Ramanraj",
+      "lastName": "Polaki",
+      "email": "polakiramanraj@gmail.com",
+      "dob": "1994-09-22T18:30:00.000Z",
+      "gender": "male",
+      "department": "Mechanical",
+      "college": "Andhra University",
+      "address": "Narsananpeta",
+      "city": "Srikakulam",
+      "id": 4
+    },
+    {
+      "firstName": "Ashok",
+      "lastName": "G",
+      "email": "ashokg@gmail.com",
+      "dob": "1994-01-04T18:30:00.000Z",
+      "gender": "male",
+      "department": "CSE",
+      "college": "SVU",
+      "address": "Dwarapudi",
+      "city": "Rajahmundry",
+      "id": 6
+    },
+    {
+      "firstName": "Gayathri",
+      "lastName": "Sowmya",
+      "email": "sowmya@gmail.com",
+      "dob": "1997-04-03T18:30:00.000Z",
+      "gender": "female",
+      "department": "CSE",
+      "college": "IIT",
+      "address": "Kukatpally",
+      "city": "Hyderabad",
+      "id": 7
+    }
+  ]
+}
